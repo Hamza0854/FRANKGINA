@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Headlight bulb">
+  <defs><radialGradient id="bl" cx=".4" cy=".35" r=".7"><stop offset="0" stop-color="#FFFDF2"/><stop offset="1" stop-color="#F3D95C"/></radialGradient>
+  <radialGradient id="sh8" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+  <ellipse cx="210" cy="360" rx="92" ry="20" fill="url(#sh8)"/>
+  <circle cx="210" cy="160" r="86" fill="url(#bl)"/>
+  <path d="M186 138c10 18 38 18 48 0" fill="none" stroke="#B8930E" stroke-width="7" stroke-linecap="round"/>
+  <path d="M186 174c10 18 38 18 48 0" fill="none" stroke="#B8930E" stroke-width="7" stroke-linecap="round"/>
+  <rect x="164" y="238" width="92" height="30" rx="8" fill="#E0B71C"/>
+  <rect x="172" y="268" width="76" height="70" rx="10" fill="#C9CBD1"/>
+  <rect x="172" y="286" width="76" height="8" fill="#9A9DA5"/>
+  <rect x="172" y="306" width="76" height="8" fill="#9A9DA5"/>
+</svg>

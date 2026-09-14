@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Car air freshener">
+  <defs><linearGradient id="af" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3D95C"/><stop offset="1" stop-color="#B8930E"/></linearGradient>
+  <radialGradient id="sh6" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".16"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+  <ellipse cx="210" cy="360" rx="80" ry="18" fill="url(#sh6)"/>
+  <path d="M210 40c0 0 16 22 16 34a16 16 0 0 1-32 0c0-12 16-34 16-34z" fill="#0B0B0C" opacity=".25"/>
+  <rect x="192" y="86" width="36" height="30" rx="6" fill="#0B0B0C"/>
+  <path d="M162 116h96c14 0 24 12 24 28v170c0 16-10 28-24 28h-96c-14 0-24-12-24-28V144c0-16 10-28 24-28z" fill="url(#af)"/>
+  <path d="M162 116h30v226h-30c-14 0-24-12-24-28V144c0-16 10-28 24-28z" fill="#fff" opacity=".18"/>
+  <circle cx="210" cy="216" r="44" fill="#0B0B0C" opacity=".9"/>
+  <path d="M210 190c0 0 14 18 14 28a14 14 0 0 1-28 0c0-10 14-28 14-28z" fill="#E0B71C"/>
+  <rect x="166" y="286" width="88" height="9" rx="4.5" fill="#0B0B0C" opacity=".55"/>
+</svg>

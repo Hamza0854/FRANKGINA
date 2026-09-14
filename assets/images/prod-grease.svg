@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Grease tub">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F3D95C"/><stop offset=".5" stop-color="#E0B71C"/><stop offset="1" stop-color="#B8930E"/></linearGradient>
+  <radialGradient id="sh5" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs>
+  <ellipse cx="210" cy="348" rx="108" ry="24" fill="url(#sh5)"/>
+  <path d="M112 148h196l-16 178c-1 12-10 20-22 20H150c-12 0-21-8-22-20z" fill="url(#g)"/>
+  <ellipse cx="210" cy="148" rx="98" ry="30" fill="#0B0B0C"/>
+  <ellipse cx="210" cy="144" rx="98" ry="30" fill="#2B2B31"/>
+  <ellipse cx="210" cy="144" rx="62" ry="18" fill="#E0B71C" opacity=".25"/>
+  <rect x="150" y="214" width="120" height="12" rx="6" fill="#0B0B0C" opacity=".85"/>
+  <rect x="150" y="238" width="82" height="9" rx="4.5" fill="#0B0B0C" opacity=".45"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Fluid bottle">
+  <defs>
+    <linearGradient id="b2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3F4F6"/><stop offset="1" stop-color="#CDD0D7"/></linearGradient>
+    <radialGradient id="sh2" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <ellipse cx="210" cy="368" rx="92" ry="22" fill="url(#sh2)"/>
+  <rect x="186" y="52" width="48" height="44" rx="8" fill="#0B0B0C"/>
+  <rect x="178" y="36" width="64" height="26" rx="10" fill="#0B0B0C"/>
+  <path d="M158 96h104c16 0 28 14 28 32v200c0 18-12 30-28 30H158c-16 0-28-12-28-30V128c0-18 12-32 28-32z" fill="url(#b2)"/>
+  <path d="M158 96h34v262h-34c-16 0-28-12-28-30V128c0-18 12-32 28-32z" fill="#fff" opacity=".12"/>
+  <rect x="150" y="186" width="120" height="104" rx="10" fill="#B8930E"/>
+  <rect x="164" y="204" width="70" height="9" rx="4.5" fill="#fff" opacity=".92"/>
+  <rect x="164" y="220" width="46" height="7" rx="3.5" fill="#fff" opacity=".6"/>
+  <text x="210" y="270" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="19" font-weight="900" fill="#fff">500ml</text>
+</svg>
