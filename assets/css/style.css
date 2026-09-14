@@ -781,7 +781,7 @@ select.inp option { color: var(--ink); }
   .nl__form { flex-direction: column; max-width: none; }
   .nl__form .btn { width: 100%; }
   .footer__bottom { flex-direction: column; }
-  .totop { bottom: 80px; right: 14px; width: 42px; height: 42px; }
+  .totop { bottom: 15px; right: 14px; width: 42px; height: 42px; }
   .toast { bottom: 84px; }
 
   .mbar {
